@@ -1,0 +1,13 @@
+.collabignore
+.idea/
+.vscode/
+Assembly-CSharp.csproj
+
+Library/
+Logs/
+
+
+Temp/
+UserSettings/
+Work_With_Vectors.sln
+
